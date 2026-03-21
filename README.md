@@ -8,8 +8,7 @@
 
 <!-- Social Badges -->
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-E8B4B8?style=for-the-badge&amp;logo=github&amp;logoColor=1a0a0e"/></a>
+<a href="https://linkedin.com/in/samruddhi-k-1a4375399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 <a href="mailto:kaledeshmukh.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 </p>
 
