@@ -1,20 +1,19 @@
-
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0e,40:2d1520,100:1a0f10&height=220&section=header&text=Samruddhi%20Kaledeshmukh&fontSize=52&fontColor=E8B4B8&animation=fadeIn&fontAlignY=35&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full-Stack&descAlignY=58&descSize=17&descColor=F0D0C0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a0e,40:2d1520,100:1a0f10&amp;height=220&amp;section=header&amp;text=Samruddhi%20Kaledeshmukh&amp;fontSize=52&amp;fontColor=E8B4B8&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full-Stack&amp;descAlignY=58&amp;descSize=17&amp;descColor=F0D0C0" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8B4B8&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning+%7C+LLMs;Building+AI+that+cares+%F0%9F%8C%B8+%7C+Published+Researcher+%7C+NEU+%E2%80%9927)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=E8B4B8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=900&amp;height=100&amp;lines=NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning+%7C+LLMs;Building+AI+that+cares+%F0%9F%8C%B8+%7C+Published+Researcher+%7C+NEU+%E2%80%9927)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-E8B4B8?style=for-the-badge&logo=github&logoColor=1a0a0e"/></a>
-<a href="mailto:kaledeshmukh.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-E8B4B8?style=for-the-badge&amp;logo=github&amp;logoColor=1a0a0e"/></a>
+<a href="mailto:kaledeshmukh.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=B76E79" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&amp;style=for-the-badge&amp;color=B76E79" alt="Profile Views"/>
 
 </div>
 
@@ -106,7 +105,7 @@ Holistic mobile app for dementia patients
 ### 🎯 Active Research Interests
 - 🤖 **Reinforcement Learning** — DRL, MDP, Object Detection
 - 🧠 **Healthcare AI** — Dementia care, mHealth, assistive tech
-- 💬 **NLP & LLMs** — BERT, RAG, Sentiment Analysis
+- 💬 **NLP &amp; LLMs** — BERT, RAG, Sentiment Analysis
 - 📊 **Big Data** — Apache Spark, distributed NLP pipelines
 - 🌐 **Full-Stack AI** — FastAPI, React, Next.js, REST APIs
 
@@ -139,38 +138,38 @@ timeline
 ## 🛠️ Tech Arsenal
 
 ### 🤖 AI / ML / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&amp;logo=intel&amp;logoColor=white)
 
-### 💬 NLP & LLMs
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-E8B4B8?style=for-the-badge&logoColor=1a0a0e)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-B76E79?style=for-the-badge&logoColor=white)
+### 💬 NLP &amp; LLMs
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&amp;logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-E8B4B8?style=for-the-badge&amp;logoColor=1a0a0e)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-B76E79?style=for-the-badge&amp;logoColor=white)
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
 
-### 🌐 Full-Stack & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🌐 Full-Stack &amp; Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
 
-### ☁️ Cloud, Data & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ☁️ Cloud, Data &amp; DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 
 ---
 
@@ -183,8 +182,8 @@ timeline
 <h3 align="center">🧠 DEMCARE</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Healthcare_AI-Dementia-E8B4B8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Latency-↓80%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Engagement-↑75%25-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Latency-%E2%86%9380%25-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Engagement-%E2%86%9175%25-brightgreen?style=flat-square"/>
 </p>
 <p>Holistic mobile app for dementia patients with ML-ready behavioral pipelines (10K+ daily events), RL-driven adaptive cognitive tasks, and real-time GPS geofencing for risk detection.</p>
 </td>
@@ -193,7 +192,7 @@ timeline
 <p align="center">
 <img src="https://img.shields.io/badge/BERT-Fine_tuned-FFD21E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Apache_Spark-Distributed-E25A1C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Acc-+12%25_over_baseline-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Acc-%2B12%25_over_baseline-success?style=flat-square"/>
 </p>
 <p>Distributed NLP pipeline on 1,000+ tweets and Reddit comments using Apache Spark. Fine-tuned BERT classifier achieving <strong>+12% accuracy</strong> over baseline with temporal trend visualization.</p>
 </td>
@@ -218,10 +217,10 @@ timeline
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E8B4B8&icon_color=F0D0C0&text_color=F5E6E8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=E8B4B8&text_color=F5E6E8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=E8B4B8&amp;icon_color=F0D0C0&amp;text_color=F5E6E8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=E8B4B8&amp;text_color=F5E6E8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=E8B4B8&fire=F0D0C0&currStreakLabel=E8B4B8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&amp;hide_border=true&amp;background=0d1117&amp;ring=E8B4B8&amp;fire=F0D0C0&amp;currStreakLabel=E8B4B8"/>
 
 </div>
 
@@ -234,7 +233,7 @@ timeline
 | Title | Type |
 |:------|:----:|
 | **Object Detection using Deep Reinforcement Learning** — Dynamic MDP on Pascal VOC2012 | Research Paper |
-| **Literature Review: Dementia Care and Management** — mHealth technologies for patients & caregivers | Review Article |
+| **Literature Review: Dementia Care and Management** — mHealth technologies for patients &amp; caregivers | Review Article |
 
 </div>
 
@@ -259,19 +258,19 @@ timeline
 
 <div align="center">
 
-### 🌸 Let's Connect & Collaborate!
+### 🌸 Let's Connect &amp; Collaborate!
 
 **Open to research collaborations, ML engineering roles, and building AI that genuinely helps people.**
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <i>"The best models are the ones built with empathy at the core." 🌸</i>
 
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0e,40:2d1520,100:1a0f10&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a0e,40:2d1520,100:1a0f10&amp;height=120&amp;section=footer" width="100%"/>
