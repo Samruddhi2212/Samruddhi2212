@@ -95,13 +95,7 @@ model.say_hi()
 <tr>
 <td width="50%">
 
-### 🧠 DEMCARE
-Holistic mobile app for dementia patients
-- 10K+ daily behavioral events pipeline
-- **95% signal consistency** for downstream ML
-- **80% reduced** real-time risk detection latency
-- Event-driven GPS geofencing + anomaly detection
-- RL-driven adaptive cognitive task difficulty
+### VIT FROM SCRATCH
 
 </td>
 <td width="50%">
