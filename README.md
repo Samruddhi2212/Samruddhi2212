@@ -13,7 +13,7 @@
 
 <!-- Social Badges -->
 <p>
-<a href="https://linkedin.com/in/samruddhi-k-1a4375399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/samruddhi-k-1a4375399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 <a href="mailto:kaledeshmukh.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 </p>
 
