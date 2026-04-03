@@ -17,7 +17,6 @@
 <a href="mailto:kaledeshmukh.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&amp;style=for-the-badge&amp;color=B76E79" alt="Profile Views"/>
 
 </div>
 
