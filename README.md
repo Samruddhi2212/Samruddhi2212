@@ -110,27 +110,7 @@ model.say_hi()
 </td>
 </tr>
 </table>
-
----
-
-## 🗺️ My Journey
-
-```mermaid
-timeline
-    title Career & Research Timeline
-    2020-2025 : Cummins College of Engineering for Women
-              : B.Tech — Computer Science · Pune, India
-              : ML · DL · RL · CV · Cloud Computing
-    2024      : Concept Information Technology Pvt. Ltd.
-              : Software Developer · Pune, India
-              : REST APIs · 30% perf gain · 25% automation
-    2025      : Published Research
-              : Object Detection via Deep RL · Dementia Care Review
-    2025-2027 : Northeastern University
-              : MS Data Science · San Jose, CA
-              : Algorithms · ML · CV · NLP · Data Mining
-```
-
+ 
 ---
 
 ## 🛠️ Tech Arsenal
