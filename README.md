@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a0e,40:2d1520,100:1a0f10&amp;height=220&amp;section=header&amp;text=Samruddhi%20Kaledeshmukh&amp;fontSize=52&amp;fontColor=E8B4B8&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full-Stack&amp;descAlignY=58&amp;descSize=17&amp;descColor=F0D0C0" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=E8B4B8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=900&amp;height=100&amp;lines=NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning+%7C+LLMs;Building+AI+that+cares+%F0%9F%8C%B8+%7C+Published+Researcher+%7C+NEU+%E2%80%9927)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=E8B4B8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=900&amp;height=100&amp;lines=NLP+%7C+Deep+Learning+%7C+Reinforcement+Learning+%7C+LLMs;Building+AI+that+cares+%F0%9F%8C%B8+%7C+Published+Researcher+%7C+NEU+%E2%80%9927)](https://git.io/typing-svg)
 
 
 <!-- Social Badges -->
