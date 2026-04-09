@@ -1,6 +1,4 @@
-<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0e,40:2d1520,100:1a0f10&height=220&section=header&text=Samruddhi%20Kaledeshmukh&fontSize=52&fontColor=E8B4B8&animation=fadeIn&fontAlignY=35&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Full-Stack&descAlignY=58&descSize=17&descColor=F0D0C0)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=E8B4B8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=900&amp;height=100&amp;lines=NLP+%7C+Deep+Learning+%7C+Reinforcement+Learning+%7C+LLMs;Building+AI+that+cares+%F0%9F%8C%B8+%7C+Published+Researcher+%7C+NEU+%E2%80%9927)](https://git.io/typing-svg)
